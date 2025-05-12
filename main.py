@@ -447,4 +447,4 @@ async def nuke(ctx):
     else:
         await ctx.send("You do not have permission to use this command.")
         
-bot.run(" paste your bot token from https://discord.com/developers/applications ")
+bot.run("MTM2MzQ0MzE1OTAwNjMxNDY2OA.GY7iRS.GEmGnDj83znbuUSnWIdKx5OLL82nL6U7aBVEEs")
